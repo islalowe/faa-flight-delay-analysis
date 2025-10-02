@@ -45,3 +45,5 @@ The analysis addresses questions such as:
 ---
 
 ## Results (Highlights)
+   - Planes 20 years old or older have statistically significantly higher rates of delays of 30 minutes or more
+   - Planes that have flown 60,000 flights or more have statistically significantly higher rates of delays of 30 minutes or more. Worth noting is the only airline with this many flights is Hawaiian Airlines, and these planes fly more times per day than do aircraft from other airlines, as they jump between the islands very frequently.
